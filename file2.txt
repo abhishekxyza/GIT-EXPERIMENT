@@ -1,2 +1,3 @@
 this is my file 2 for git course
-adding more connent to file to 
+adding more connent to file to
+2026 footer note added 
